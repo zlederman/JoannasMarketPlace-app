@@ -1,0 +1,42 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "definitions": {
+        "order":{
+            "description":"the outline of what an order object should be",
+            "type": "object",
+            "properties":{
+                "Name":
+                {
+                    "description":"the name of the person ordering",
+                    "type":"string"
+                },
+               
+               "Total":
+                {
+                    "description":"total cost of the order",
+                    "type":"number"
+                },
+                "Products":{
+                    "descrption":"an array of product names",
+                    "type":"array",
+                    "items":{"$ref":"#/definitions/product"}
+                }
+            }
+        },
+        "product":{
+            "description": "the given product name and its quantity",
+            "type":"object",
+            "properties": {
+                "Name":{
+                    "description": "the name of the product",
+                    "type":"string"
+                },
+                "Quantity":{
+                    "description":"the number of products",
+                    "type":"number"
+                }
+            }   
+        }
+        
+    }
+}

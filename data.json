@@ -1,0 +1,164 @@
+{
+  "The Feast": {
+      "price" : 0,
+      "type":"Chicken"
+  },
+  "Poulet Grille":{
+    "price":0,
+    "type":"Chicken"
+  },
+
+  "The Lederman Club":{
+    "price":0,
+    "type":"Chicken"
+  },
+  "Your Choice Chicken":{
+    "price":0,
+    "type":"Chicken"
+  },
+  "Skinny Ruben":{
+    "price":0,
+    "type":"Chicken"
+  },
+  "Big Fat Greek":{
+    "price":0,
+    "type":"Chicken"
+  },
+  "Elena Ruth":{
+    "price":0,
+    "type":"Chicken"
+  },
+  "Chicken Avocado":{
+    "price":0,
+    "type":"Chicken"
+  },
+  "Southwest Chicken Wrap":{
+    "price":0,
+    "type":"Chicken"
+  },
+
+  "Turkey Cucumber Brie":{
+    "price":0,
+    "type":"Chicken"
+  },
+  "California Club": {
+    "price":0,
+    "type":"Chicken"
+  },
+  "An Homage To Z":{
+    "price":0,
+    "type":"Beef"
+  },
+  "The Beast":{
+    "price":0,
+    "type":"Beef"
+  },
+  "Rustic Pepper Steak":{
+    "price":0,
+    "type":"Beef"
+  },
+  "Ruben":{
+    "price":0,
+    "type":"Beef"
+  },
+  "Peppadew Paradise":{
+    "price":0,
+    "type":"Beef"
+  },
+  "Cuban Cowboy":{
+    "price":0,
+    "type":"Beef"
+  },
+
+  "400 Year Old Deli":{
+    "price":0,
+    "type":"Pork"
+  },
+  "Andre's Homeland":{
+    "price":0,
+    "type":"Pork"
+  },
+  "Little Italy":{
+    "price":0,
+    "type":"Pork"
+  },
+  "The God Father":{
+    "price":0,
+    "type":"Pork"
+  },
+  "A Taste Of Spain":{
+    "price":0,
+    "type":"Pork"
+  },
+  "Muffuleta":{
+    "price":0,
+    "type":"Pork"
+  },
+  "BLT":{
+    "price":0,
+    "type":"Pork"
+  },
+  "Croqueta Preparada":{
+    "price":0,
+    "type":"Pork"
+  },
+  "Cuban Sandwhich":{
+    "price":0,
+    "type":"Pork"
+  },
+  "The Other Italian":{
+    "price":0,
+    "type":"Pork"
+  },
+  "Super Caprese":{
+    "price":0,
+    "type":"Pork"
+  },
+  "Tuna Melt":{
+    "price":0,
+    "type":"Fish"
+  },
+  "Salmon Caprese":{
+    "price":0,
+    "type":"Fish"
+  },
+
+  "Tomato Caprese":{
+    "price":0,
+    "type":"Veggie"
+  },
+  "Napolitano":{
+    "price":0,
+    "type":"Veggie"
+  },
+  "Avocado Tomato Melt":{
+    "price":0,
+    "type":"Veggie"
+  },
+  "Classic Grilled Cheese":{
+    "price":0,
+    "type":"Veggie"
+},
+  "French Country Side":{
+    "price":0,
+    "type":"Bfast"
+  },
+  "Bagel Breakfast":{
+    "price":0,
+    "type":"Bfast"
+  },
+  "Fiesta Wrap":{
+    "price":0,
+    "type":"Bfast"
+  },
+  "The Curious George":{
+    "price":0,
+    "type":"Bfast"
+  },
+  "N.Y.B.B":{
+    "price":0,
+    "type":"Bfast"
+  }
+
+
+}
